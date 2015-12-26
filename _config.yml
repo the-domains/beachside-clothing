@@ -1,0 +1,28 @@
+name: Beachside Clothing
+favicon: null
+layout_spectrum: 0.5899751260876656
+typography_spectrum: 0.5304646149743348
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.19690250023268163
+  lightness: 0.0909038195386529
+  saturation: 0.008605947950854897
+  rhythmicContrast: 0.003177897073328495
+purpose: []
